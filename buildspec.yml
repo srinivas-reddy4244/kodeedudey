@@ -19,6 +19,7 @@ artifacts:
     - appspec.yml
     - scripts/install_dependencies
     - scripts/start_server
+    - files/
     - 1.png
     - aws.gif
     - back.jpg
